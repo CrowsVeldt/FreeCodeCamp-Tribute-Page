@@ -1,0 +1,22 @@
+body {
+  background-color: tan;
+}
+
+div{
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+.text {
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+}

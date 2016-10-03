@@ -1,0 +1,1 @@
+A static web page made by Zechariah Mahler for FreeCodeCamps Front End Course
